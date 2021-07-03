@@ -62,8 +62,6 @@ extension YLPClient:BusinessSearchClient{
     }
     
   }
-  
-  
 }
 
 

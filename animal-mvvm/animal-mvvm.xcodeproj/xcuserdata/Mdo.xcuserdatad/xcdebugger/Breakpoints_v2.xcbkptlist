@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C28C5B19-5DED-44DD-8582-8BFF2593A6BB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C45D8C04-2877-4415-A228-F262B56E98D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animal-mvvm/Controllers/APIController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "APIController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C45D8C04-2877-4415-A228-F262B56E98D5 - 3199fcc351cd22f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animal_mvvm.APIController.(jsonDecoder in _8E26233961E4619CCB498A103994F719).getter : Foundation.JSONDecoder"
+                  moduleName = "animal-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoudaoata/Documents/ios-mvvm/animal-mvvm/animal-mvvm/Controllers/APIController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "C45D8C04-2877-4415-A228-F262B56E98D5 - 79ec2fc987154f1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "animal_mvvm.APIController.init() -&gt; animal_mvvm.APIController"
+                  moduleName = "animal-mvvm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmoudaoata/Documents/ios-mvvm/animal-mvvm/animal-mvvm/Controllers/APIController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "926">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
